@@ -13,4 +13,8 @@
     <PackageReference Include="Microsoft.DotNet.ILCompiler" Version="(1.0.0-alpha-*,1.1]" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Emojisskey.Core\Emojisskey.Core.csproj" />
+  </ItemGroup>
+
 </Project>
